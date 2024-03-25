@@ -1,0 +1,25 @@
+main {
+    max-width: 800;
+    background: #E0FFFF;
+    margin: 5% auto auto;
+    padding: 25px;
+ }
+ h1,
+ p,
+ h3 {
+    text-align: center;
+ }
+ h2 {
+    font-size: 20px;
+ }
+ img {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ #image {
+    display: block;
+    max-width: 25%;
+    height: auto;
+    margin: 0 auto;
+ }
